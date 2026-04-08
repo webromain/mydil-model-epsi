@@ -2,7 +2,7 @@
 
 ## I - Gestion :
 
-- Iventaiire (stock)
+- Inventaire (stock)
 - Matériel prêté (à qui, quand, état, retards)
 - Tracabilité (historique, retours, maintenance)
 
